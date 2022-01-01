@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build",
-    "exports": "sapper export",
+    "export": "sapper export",
     "start": "node __sapper__/build"
   },
   "author": "mh3mh0",
